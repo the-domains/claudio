@@ -1,0 +1,14 @@
+layout_spectrum: 0.5889724
+typography_spectrum: 0.7556391
+color:
+  saturation: 0.4794154
+  lightness: 0.3385693
+  brandStrength: 0.2286967
+  brandColors:
+    - '#040406'
+    - '#659BFF'
+    - '#153891'
+    - '#B4DFFB'
+    - '#B4775C'
+  rhythmicContrast: 0.700566
+name: Claudio
