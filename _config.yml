@@ -1,9 +1,20 @@
-layout_spectrum: 0.5889724
-typography_spectrum: 0.7556391
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9304512
 color:
   saturation: 0.4794154
+  brandStrength: 0.4461153
   lightness: 0.3385693
-  brandStrength: 0.2286967
   brandColors:
     - '#040406'
     - '#659BFF'
@@ -11,4 +22,5 @@ color:
     - '#B4DFFB'
     - '#B4775C'
   rhythmicContrast: 0.700566
+layout_spectrum: 0.131579
 name: Claudio
